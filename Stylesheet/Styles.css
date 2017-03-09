@@ -34,7 +34,12 @@ nav{
  }
 
  /*allows content to be displayed in the appropriate place*/
-
+.content{
+	padding-top:10px;
+	height:500px;
+	background-color:#ccf;
+	text-align:center;
+	border:1px solid green;
 
 }
 
