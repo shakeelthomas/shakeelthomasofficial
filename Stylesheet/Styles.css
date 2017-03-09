@@ -1,0 +1,23 @@
+/*this code displays the home border at top*/
+.header {
+    border: 1px solid green;
+    padding: 50px;
+	float:right;
+    width:75%;
+}
+
+
+ /*allows content to be displayed in the appropriate place*/
+.content{
+	padding-top:10px;
+	height:500px;
+	background-color:#ccf;
+	text-align:center;
+	border:1px solid green;
+
+}
+
+
+
+
+
